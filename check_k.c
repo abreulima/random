@@ -20,7 +20,7 @@ int check_letter_K(char *a){
   }
 
   // if we didn't return yet it's because we couldn't find the letter
-  // 'k', and now we are sure there's no 'K' and we can return 0
+  // 'K', and now we are sure there's no 'K' and we can return 0
   return 0;
 
 }
