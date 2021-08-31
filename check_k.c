@@ -32,4 +32,5 @@ int main(void) {
   printf("%d\n", check_letter_K("k")); // will return 0 k != K
   printf("%d\n", check_letter_K("K")); // will return 1
 
+  return 0;
 }
