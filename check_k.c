@@ -17,6 +17,7 @@ int check_letter_K(char *a){
     {
       return 1;
     }
+    
   }
 
   // if we didn't return yet it's because we couldn't find the letter
