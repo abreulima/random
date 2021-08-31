@@ -5,7 +5,7 @@ int check_letter_K(char *a){
   // Creating variable for the iteration
   int i;
 
-  // Using for to "walk" over everything character of the string
+  // Using for to "walk" over every character of the string
   // we will increment i while it's different from \0 (end of string)
   // a while also could be used it
   for (i = 0; a[i] != '\0'; i++)
